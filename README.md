@@ -1,0 +1,2 @@
+# EasyCurrencyExchange
+Easy Currency Exchange
