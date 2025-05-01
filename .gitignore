@@ -1,4 +1,39 @@
+# Virtual environment
 venv/
+
+# Python bytecode
 __pycache__/
+*.py[cod]
+
+# Environment variables
 .env
-docker-compose.yml
+
+# SSH & private keys
+myghkey
+myghkey.pub
+
+# Docker-related files
+docker-compose.yml_bkp2
+
+# Logs & cache
+*.log
+*.cache
+
+# Compiled files
+*.pyc
+*.pyo
+
+# VS Code settings (optional)
+.vscode/
+
+# Ignore node_modules (if using JavaScript dependencies)
+node_modules/
+
+# Ignore IDE configurations (optional)
+.idea/
+*.iml
+
+# Ignore git folder (for safety)
+.git/
+
+
